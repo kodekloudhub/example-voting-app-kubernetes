@@ -1,7 +1,6 @@
-## Example Voting App Kubernetes
+**NOTE:** 
 
-This is based on the original [example-voting-app](https://github.com/dockersamples/example-voting-app) repository from the [docker-examples](https://github.com/dockersamples) GitHub page
+### The manifests are no longer available in this repository and has been moved to the [kodekloudhub/example-voting-app](https://github.com/kodekloudhub/example-voting-app/tree/master/k8s-specifications) repository.
 
-and modified it to work on the Kubernetes cluster.
 
 
